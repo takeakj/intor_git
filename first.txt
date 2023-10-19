@@ -1,2 +1,4 @@
 銀との練習１
 ２２２
+git add
+git commit 変更を加えるテスト
