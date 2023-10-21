@@ -6,3 +6,4 @@ git commit 変更を加えるテスト
 git rmのあと
 複数ファイル追加
 git status
+git diff
