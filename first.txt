@@ -2,3 +2,6 @@
 ２２２
 git add
 git commit 変更を加えるテスト
+
+git rmのあと
+複数ファイル追加
